@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Addressmgmt_ui
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: x210779
+Implementation-Vendor-Id: com.addressmgmt_ui
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/Addressmgmt_
+ ui/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
